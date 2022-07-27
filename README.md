@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adammiszczak
-- 🌱 I’m currently learning node.js backend  including typescript, nest.js, MongoDb and so on.
+- 🌱 I’m currently learning node.js backend including typescript, nest.js, databases, docker and so on.
 - 💞️ I’m looking to collaborate on some paid projects :)
 - 📫 You can reach me via linkedin, just type Adam Miszczak - Poznań
 
